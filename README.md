@@ -2,6 +2,8 @@
 
 This project is designed to explore and understand how ReAct agents work within the LangChain framework. The focus is on integrating a simple tool for calculating text length to demonstrate the process and principles behind ReAct agents.
 
+<img src="https://github.com/Papakobina/Langchain-React-Agent/blob/main/react-langchain-flowChart.png"/>
+
 ## Objectives
 - Understand the functionality of ReAct agents.
 - Learn how to integrate custom tools within the LangChain framework.
